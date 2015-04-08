@@ -1,0 +1,48 @@
+{
+	"questions": [{
+		"question":"Can your animal fly?",
+		"yes":"2",
+		"no":"3"
+	},
+	{
+		"question":"Is your animal big in size?",
+		"yes":"5",
+		"no":"6"
+	},
+	{
+		"question":"Is your animal a pet?",
+		"yes":"7",
+		"no":"4"
+	},
+	{
+		"question":"Is your animal wild?",
+		"yes":"8",
+		"no":"9" 
+	},
+	{
+		"question":"Eagle",
+		"yes":"0",
+		"no":"0"
+	},
+	{
+		"question":"Sparrow",
+		"yes":"0",
+		"no":"0"
+	},
+	{
+		"question":"Dog",
+		"yes":"0",
+		"no":"0" 
+	},
+	{
+		"question":"Tiger",
+		"yes":"0",
+		"no":"0"
+	},
+	{
+		"question":"Elephant",
+		"yes":"0",
+		"no":"0"
+	}
+	]	  
+}

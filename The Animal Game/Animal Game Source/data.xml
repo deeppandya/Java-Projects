@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+       <question>
+       		  <q1>Can your animal fly?</q1>
+       		  <yes>2</yes>
+       		  <no>3</no>     
+       </question>
+       <question>
+              <q2>Is your animal big in size?</q2>
+              <yes>5</yes>
+              <no>6</no>
+       </question>
+       <question>
+              <q3>Is your animal a pet?</q3>
+              <yes>7</yes>
+              <no>4</no>
+       </question>
+       <question>
+              <q4>Is your animal wild?</q4>
+              <yes>8</yes>
+              <no>9</no>
+       </question>
+       <question>
+              <q5>Eagle</q5>
+              <yes>0</yes>
+              <no>0</no>
+       </question>
+       <question>
+              <q6>Sparrow</q6>
+              <yes>0</yes>
+              <no>0</no>
+       </question>
+       <question>
+              <q7>Dog</q7>
+              <yes>0</yes>
+              <no>0</no>
+       </question>
+       <question>
+              <q8>Tiger</q8>
+              <yes>0</yes>
+              <no>0</no>
+       </question>
+       <question>
+              <q9>Elephant</q9>
+              <yes>0</yes>
+              <no>0</no>
+       </question>
+</game>
