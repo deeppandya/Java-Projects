@@ -1,0 +1,11 @@
+module idlInterface {
+	interface DPSS{
+	boolean CreatePlayerAccount(in string f_name,in string l_name,in string age,in string u_name,in string password,in string ipaddress);
+	boolean player_signin(in string u_name,in string password);
+	boolean player_signout(in string u_name);
+	boolean Set_Status(in string u_name);
+	string getPlayerStatus (in float servercode);
+	boolean Check_User (in string u_name);
+	boolean suspendAccount(in string u_name);
+	};	
+};

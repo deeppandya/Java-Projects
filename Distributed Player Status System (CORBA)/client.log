@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-31T21:19:02</date>
+  <millis>1401596342316</millis>
+  <sequence>0</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Client started...</message>
+</record>
+<record>
+  <date>2014-05-31T21:19:09</date>
+  <millis>1401596349612</millis>
+  <sequence>1</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Requesting for registry...</message>
+</record>
+<record>
+  <date>2014-05-31T21:19:09</date>
+  <millis>1401596349613</millis>
+  <sequence>2</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Registry found...</message>
+</record>
+<record>
+  <date>2014-05-31T21:19:17</date>
+  <millis>1401596357408</millis>
+  <sequence>3</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Entered valid Home menu choice: 1</message>
+</record>
+<record>
+  <date>2014-05-31T21:19:17</date>
+  <millis>1401596357409</millis>
+  <sequence>4</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Regestering new Player...</message>
+</record>
+<record>
+  <date>2014-05-31T21:19:31</date>
+  <millis>1401596371601</millis>
+  <sequence>6</sequence>
+  <logger>DPSS</logger>
+  <level>SEVERE</level>
+  <class>idlInterface.Client</class>
+  <method>Callrun</method>
+  <thread>1</thread>
+  <message></message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-31T21:20:15</date>
+  <millis>1401596415341</millis>
+  <sequence>0</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Client started...</message>
+</record>
+<record>
+  <date>2014-05-31T21:20:25</date>
+  <millis>1401596425264</millis>
+  <sequence>1</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Requesting for registry...</message>
+</record>
+<record>
+  <date>2014-05-31T21:20:25</date>
+  <millis>1401596425265</millis>
+  <sequence>2</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Registry found...</message>
+</record>
+<record>
+  <date>2014-05-31T21:20:26</date>
+  <millis>1401596426902</millis>
+  <sequence>3</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Entered valid Home menu choice: 1</message>
+</record>
+<record>
+  <date>2014-05-31T21:20:32</date>
+  <millis>1401596432266</millis>
+  <sequence>4</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Regestering new Player...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-31T21:22:58</date>
+  <millis>1401596578614</millis>
+  <sequence>0</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Client started...</message>
+</record>
+<record>
+  <date>2014-05-31T21:23:02</date>
+  <millis>1401596582425</millis>
+  <sequence>1</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Requesting for registry...</message>
+</record>
+<record>
+  <date>2014-05-31T21:23:02</date>
+  <millis>1401596582426</millis>
+  <sequence>2</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Registry found...</message>
+</record>
+<record>
+  <date>2014-05-31T21:23:04</date>
+  <millis>1401596584032</millis>
+  <sequence>3</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Entered valid Home menu choice: 1</message>
+</record>
+<record>
+  <date>2014-05-31T21:23:04</date>
+  <millis>1401596584033</millis>
+  <sequence>4</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Regestering new Player...</message>
+</record>
+<record>
+  <date>2014-05-31T21:23:16</date>
+  <millis>1401596596825</millis>
+  <sequence>5</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Player successfully Registered...d_pandya</message>
+</record>
+<record>
+  <date>2014-05-31T21:23:26</date>
+  <millis>1401596606201</millis>
+  <sequence>6</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Requesting for registry...</message>
+</record>
+<record>
+  <date>2014-05-31T21:23:26</date>
+  <millis>1401596606201</millis>
+  <sequence>7</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Registry found...</message>
+</record>
+<record>
+  <date>2014-05-31T21:23:27</date>
+  <millis>1401596607867</millis>
+  <sequence>8</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Entered valid Home menu choice: 2</message>
+</record>
+<record>
+  <date>2014-05-31T21:23:34</date>
+  <millis>1401596614644</millis>
+  <sequence>9</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Player logged in...d_pandya</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-31T21:58:57</date>
+  <millis>1401598737820</millis>
+  <sequence>0</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Client started...</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:08</date>
+  <millis>1401598748343</millis>
+  <sequence>1</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Requesting for registry...</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:08</date>
+  <millis>1401598748344</millis>
+  <sequence>2</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Registry found...</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:10</date>
+  <millis>1401598750047</millis>
+  <sequence>3</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Entered valid Home menu choice: 2</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:15</date>
+  <millis>1401598755345</millis>
+  <sequence>4</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Admin logged in ..</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:16</date>
+  <millis>1401598756765</millis>
+  <sequence>5</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Requesting for player status...</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:24</date>
+  <millis>1401598764496</millis>
+  <sequence>6</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Requesting for registry...</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:24</date>
+  <millis>1401598764497</millis>
+  <sequence>7</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Registry found...</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:26</date>
+  <millis>1401598766131</millis>
+  <sequence>8</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Entered valid Home menu choice: 1</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:26</date>
+  <millis>1401598766132</millis>
+  <sequence>9</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Regestering new Player...</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:39</date>
+  <millis>1401598779668</millis>
+  <sequence>10</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Player successfully Registered...d_pandya</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:44</date>
+  <millis>1401598784860</millis>
+  <sequence>11</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Requesting for registry...</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:44</date>
+  <millis>1401598784861</millis>
+  <sequence>12</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Registry found...</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:46</date>
+  <millis>1401598786021</millis>
+  <sequence>13</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Entered valid Home menu choice: 2</message>
+</record>
+<record>
+  <date>2014-05-31T21:59:52</date>
+  <millis>1401598792873</millis>
+  <sequence>14</sequence>
+  <logger>DPSS</logger>
+  <level>INFO</level>
+  <class>idlInterface.Log</class>
+  <method>Info</method>
+  <thread>1</thread>
+  <message>Player logged in...d_pandya</message>
+</record>
